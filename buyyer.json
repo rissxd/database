@@ -18,6 +18,13 @@
       "saldo": 0,
       "deposit_history": [
         {
+          "nominal": 10272,
+          "status": "pending",
+          "id": "gMctvzAZNQ7Ifsm1RDzI",
+          "reff_id": "DEP1752419990377",
+          "tanggal": "2025-07-13T15:19:53.602Z"
+        },
+        {
           "status": "pending",
           "id": "TQqhSrrH6w4yh2q8K0bF",
           "reff_id": "DEP1752419886448",
