@@ -1,7 +1,11 @@
 {
   "users": {
     "7617987031": {
-      "saldo": 0
+      "saldo": 0,
+      "registered": true,
+      "username": "rissgtg",
+      "name": "Riss",
+      "date_registered": "2025-07-13T14:19:46.941Z"
     }
   },
   "chats": {
