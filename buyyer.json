@@ -15,7 +15,15 @@
       }
     },
     "6212082135": {
-      "saldo": 0
+      "saldo": 0,
+      "deposit_history": [
+        {
+          "status": "pending",
+          "id": "TQqhSrrH6w4yh2q8K0bF",
+          "reff_id": "DEP1752419886448",
+          "tanggal": "2025-07-13T15:18:10.324Z"
+        }
+      ]
     }
   },
   "chats": {
